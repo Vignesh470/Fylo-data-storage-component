@@ -23,13 +23,13 @@ Users should be able to:
 
 ### Screenshot
 
-![Desktop Solution](./design/desktop%20solution.png)
-![Mobile Solution](./design/mobile%20solution.png)
+[Desktop Solution](./design/desktop%20solution.png)
+[Mobile Solution](./design/mobile%20solution.png)
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Solution URL: [Click here for Solution page](https://www.frontendmentor.io/solutions/simple-data-storage-component-page-DhjoiFTCs-)
+- Live Site URL: [Click here for Live site page](https://vignesh470.github.io/Fylo-data-storage-component/)
 
 ## My process
 
@@ -46,3 +46,4 @@ Users should be able to:
 
 - Frontend Mentor - [@Vignesh470](https://www.frontendmentor.io/profile/Vignesh470)
 - Twitter - [@vignesh470](https://www.twitter.com/vignesh470)
+- Blog - [@Vignesh470](https://dev.to/vignesh470)
