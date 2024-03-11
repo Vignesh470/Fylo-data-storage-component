@@ -23,8 +23,8 @@ Users should be able to:
 
 ### Screenshot
 
-[Desktop Solution](./design/desktop%20solution.png)
-[Mobile Solution](./design/mobile%20solution.png)
+- Desktop Solution ![Desktop Solution](./design/desktop%20solution.png)
+- Mobile Solution ![Mobile Solution](./design/mobile%20solution.png)
 
 ### Links
 
